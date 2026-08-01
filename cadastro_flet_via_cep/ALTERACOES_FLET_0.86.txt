@@ -1,0 +1,103 @@
+ADEQUAÇÃO DO PROJETO PARA O FLET 0.86
+======================================
+
+Projeto alterado: cadastro_flet_via_cep
+Versão-alvo: Flet 0.86.4
+
+1. VERSÃO DO FLET FIXADA
+------------------------
+No arquivo requirements.txt, a dependência:
+
+    flet
+
+foi substituída por:
+
+    flet==0.86.4
+
+Isso evita que uma instalação futura use uma versão incompatível do Flet.
+
+
+2. TAMANHO DA JANELA
+--------------------
+As propriedades antigas:
+
+    page.window_width = 1100
+    page.window_height = 780
+
+foram substituídas pela API atual:
+
+    page.window.width = 1100
+    page.window.height = 780
+
+Na API atual, largura e altura da janela pertencem ao objeto page.window.
+
+
+3. BORDA DO CONTÊINER
+---------------------
+O helper antigo:
+
+    ft.border.all(1, ft.Colors.OUTLINE)
+
+foi substituído por:
+
+    ft.Border.all(1, ft.Colors.OUTLINE)
+
+Os antigos helpers dos módulos de espaçamento e bordas foram removidos.
+No Flet atual, devem ser utilizadas as classes correspondentes, como
+ft.Border, ft.Padding, ft.Margin e ft.BorderRadius.
+
+
+4. EXIBIÇÃO E FECHAMENTO DO DIÁLOGO
+-----------------------------------
+O diálogo de confirmação de exclusão era aberto atribuindo-o a page.dialog
+e alterando manualmente dlg.open.
+
+Agora ele é aberto com:
+
+    page.show_dialog(dlg)
+
+e fechado com:
+
+    page.pop_dialog()
+
+Esses métodos administram a pilha e o ciclo de vida dos diálogos na API
+do Flet 0.86.
+
+
+5. ARMAZENAMENTO DA PLANILHA
+----------------------------
+Foi criada a função get_database_path() em app/ui.py.
+
+No Flet 0.86, o diretório do aplicativo empacotado é somente leitura e o
+diretório de trabalho passou a ser uma área de dados gravável. Por isso,
+a planilha agora é aberta no diretório informado pela variável:
+
+    FLET_APP_STORAGE_DATA
+
+Quando essa variável não existe, como em uma execução direta com Python,
+é usado o diretório de trabalho atual.
+
+Na primeira execução, se já existir cadastros.xlsx na pasta do projeto e
+ainda não existir uma planilha no armazenamento do aplicativo, o arquivo
+é copiado automaticamente. Assim, os cadastros existentes são preservados.
+
+
+6. VALIDAÇÕES REALIZADAS
+------------------------
+- Compilação de todos os arquivos Python com compileall.
+- Inicialização do aplicativo usando Flet 0.86.4.
+- Verificação da criação da interface sem exceções.
+- Verificação do caminho da planilha no armazenamento do Flet.
+
+
+COMO INSTALAR E EXECUTAR
+========================
+
+Entre na pasta cadastro_flet_via_cep e execute:
+
+    python -m pip install -r requirements.txt
+    flet run main.py
+
+Também é possível iniciar diretamente:
+
+    python main.py

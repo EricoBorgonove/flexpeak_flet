@@ -1,18 +1,37 @@
-import flet as ft
+import os
+import shutil
 from datetime import datetime
+from pathlib import Path
+
+import flet as ft
 
 from app.services.viacep_service import fetch_address_from_viacep
 from app.repositories.excel_repo import ExcelRepo
 from app.utils.strings import only_digits
 
 
+def get_database_path() -> Path:
+    """Retorna um caminho gravável para a planilha de cadastros."""
+    project_file = Path(__file__).resolve().parent.parent / "cadastros.xlsx"
+    storage_dir = Path(os.getenv("FLET_APP_STORAGE_DATA", Path.cwd()))
+    storage_dir.mkdir(parents=True, exist_ok=True)
+    database_file = storage_dir / "cadastros.xlsx"
+
+    # No Flet 0.86, o diretório do aplicativo empacotado é somente leitura.
+    # Copia a planilha inicial para o armazenamento do app apenas no primeiro uso.
+    if database_file != project_file and not database_file.exists() and project_file.exists():
+        shutil.copy2(project_file, database_file)
+
+    return database_file
+
+
 def build_ui(page: ft.Page):
     page.title = "Cadastro de Usuários (Flet + ViaCEP + Excel)"
-    page.window_width = 1100
-    page.window_height = 780
+    page.window.width = 1100
+    page.window.height = 780
     page.scroll = ft.ScrollMode.AUTO
 
-    repo = ExcelRepo(file_path="cadastros.xlsx", sheet_name="usuarios")
+    repo = ExcelRepo(file_path=str(get_database_path()), sheet_name="usuarios")
 
     status = ft.Text("", selectable=True)
 
@@ -264,17 +283,14 @@ def build_ui(page: ft.Page):
                 set_status("Registro excluído.")
                 clear_form()
                 set_selected(None, None)
-                dlg.open = False
-                page.update()
+                page.pop_dialog()
                 refresh_table()
             except Exception as ex:
-                dlg.open = False
-                page.update()
+                page.pop_dialog()
                 set_status(f"Erro ao excluir: {ex}", error=True)
 
         def cancel_delete(_):
-            dlg.open = False
-            page.update()
+            page.pop_dialog()
 
         dlg = ft.AlertDialog(
             modal=True,
@@ -286,9 +302,7 @@ def build_ui(page: ft.Page):
             ],
             actions_alignment=ft.MainAxisAlignment.END,
         )
-        page.dialog = dlg
-        dlg.open = True
-        page.update()
+        page.show_dialog(dlg)
 
     def on_refresh_click(e: ft.ControlEvent):
         refresh_table()
@@ -328,7 +342,7 @@ def build_ui(page: ft.Page):
                 ft.Text("Cadastros salvos", size=18, weight=ft.FontWeight.BOLD),
                 ft.Container(
                     content=ft.Column([table], scroll=ft.ScrollMode.AUTO),
-                    border=ft.border.all(1, ft.Colors.OUTLINE),
+                    border=ft.Border.all(1, ft.Colors.OUTLINE),
                     padding=8,
                     border_radius=10,
                 ),
