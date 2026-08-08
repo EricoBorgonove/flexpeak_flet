@@ -1,0 +1,801 @@
+﻿nome;curso;nota
+João Vieira Duarte;Engenharia da Computação;8,06
+Isabela Oliveira Vieira;Enfermagem;1,28
+Felipe Teixeira Batista;Administração;3,86
+Olivia Almeida Haddad;Odontologia;1,86
+Heitor Klein Ramos;Análise e Desenvolvimento de Sistemas;1,34
+Vinicius Haddad Oliveira;Direito;0,79
+Mariana Lima Silva;Direito;2,82
+Kauã Costa Esteves;Ciência da Computação;6,95
+Ingrid Costa Esteves;Ciência da Computação;5,13
+Mariana Freitas Gomes;Odontologia;5,60
+Marcela Almeida Haddad;Direito;6,17
+Giovana Teixeira Batista;Enfermagem;8,85
+Yasmin Jardim Queiroz;Direito;9,44
+Carla Macedo Teixeira;Engenharia da Computação;7,07
+Gabriela Ramos Zanetti;Administração;0,56
+Beatriz Uchoa Costa;Enfermagem;9,27
+Bruno Lima Silva;Administração;3,98
+Olivia Teixeira Batista;Administração;8,57
+Gabriela Zanetti Barbosa;Psicologia;2,84
+Quezia Silva Araújo;Análise e Desenvolvimento de Sistemas;7,60
+João Zanetti Barbosa;Arquitetura e Urbanismo;4,03
+Caio Uchoa Costa;Psicologia;3,88
+Caio Costa Esteves;Direito;5,18
+João Almeida Haddad;Engenharia da Computação;7,78
+Yasmin Costa Esteves;Odontologia;5,72
+Alice Xavier Freitas;Análise e Desenvolvimento de Sistemas;6,97
+Daniel Uchoa Costa;Odontologia;3,54
+Paulo Araújo Cardoso;Engenharia da Computação;8,75
+Heitor Esteves Lima;Análise e Desenvolvimento de Sistemas;8,47
+Pedro Teixeira Batista;Ciência da Computação;3,23
+Otávio Cardoso Jardim;Análise e Desenvolvimento de Sistemas;9,37
+Ursula Jardim Queiroz;Análise e Desenvolvimento de Sistemas;5,79
+Quezia Lima Silva;Engenharia Mecânica;2,51
+Wesley Cardoso Jardim;Administração;8,95
+Vinicius Almeida Haddad;Odontologia;2,44
+Quezia Pereira Xavier;Análise e Desenvolvimento de Sistemas;0,57
+Fernando Ferreira Macedo;Arquitetura e Urbanismo;6,49
+Bruno Cardoso Jardim;Enfermagem;2,69
+Giovana Ferreira Macedo;Arquitetura e Urbanismo;0,41
+Ursula Dias Klein;Psicologia;0,43
+Bruno Macedo Teixeira;Arquitetura e Urbanismo;2,33
+João Uchoa Costa;Análise e Desenvolvimento de Sistemas;7,84
+Lucas Cardoso Jardim;Análise e Desenvolvimento de Sistemas;3,80
+Wesley Haddad Oliveira;Arquitetura e Urbanismo;7,51
+Diego Gomes Nascimento;Odontologia;9,38
+Natália Costa Esteves;Psicologia;9,51
+Caio Nascimento Uchoa;Direito;0,06
+Quezia Teixeira Batista;Odontologia;2,16
+Leonardo Cardoso Jardim;Odontologia;2,96
+Bruno Gomes Nascimento;Odontologia;5,41
+Leonardo Ferreira Macedo;Ciência da Computação;4,54
+Olivia Uchoa Costa;Engenharia Mecânica;9,37
+Fernando Haddad Oliveira;Psicologia;2,27
+Rafael Lima Silva;Administração;4,63
+Vinicius Queiroz Yamada;Direito;1,60
+Kauã Esteves Lima;Direito;0,74
+Lucas Costa Esteves;Direito;0,24
+Karen Esteves Lima;Enfermagem;8,07
+Ingrid Pereira Xavier;Arquitetura e Urbanismo;5,28
+Elisa Macedo Teixeira;Ciência da Computação;1,23
+Fernando Pereira Xavier;Odontologia;7,02
+Olivia Macedo Teixeira;Administração;2,62
+Ingrid Almeida Haddad;Engenharia Mecânica;8,75
+Nicolas Araújo Cardoso;Psicologia;6,66
+Alice Esteves Lima;Arquitetura e Urbanismo;6,71
+Elisa Queiroz Yamada;Odontologia;7,57
+Otávio Klein Ramos;Enfermagem;0,93
+Felipe Silva Araújo;Engenharia da Computação;1,94
+Nicolas Vieira Duarte;Ciência da Computação;1,42
+Bruno Esteves Lima;Administração;1,14
+Yasmin Ferreira Macedo;Engenharia da Computação;4,25
+Karen Macedo Teixeira;Direito;9,87
+Sabrina Zanetti Barbosa;Administração;4,18
+Lucas Zanetti Barbosa;Enfermagem;2,95
+Kauã Lima Silva;Análise e Desenvolvimento de Sistemas;2,80
+Ana Silva Araújo;Direito;9,42
+Paulo Haddad Oliveira;Enfermagem;7,73
+João Silva Araújo;Engenharia da Computação;8,20
+Paulo Barbosa Ibrahim;Ciência da Computação;3,12
+Leonardo Barbosa Ibrahim;Enfermagem;4,86
+Giovana Silva Araújo;Enfermagem;0,76
+Lucas Ibrahim Pereira;Administração;9,29
+Gabriela Duarte Ferreira;Arquitetura e Urbanismo;3,34
+Caio Klein Ramos;Ciência da Computação;4,13
+Giovana Pereira Xavier;Odontologia;1,95
+Olivia Vieira Duarte;Enfermagem;7,59
+Caio Yamada Almeida;Análise e Desenvolvimento de Sistemas;5,74
+Pedro Silva Araújo;Enfermagem;0,23
+Bruno Nascimento Uchoa;Arquitetura e Urbanismo;5,93
+Natália Queiroz Yamada;Enfermagem;4,44
+Felipe Uchoa Costa;Análise e Desenvolvimento de Sistemas;1,71
+Leonardo Freitas Gomes;Arquitetura e Urbanismo;8,54
+Júlia Araújo Cardoso;Odontologia;8,52
+Fernando Lima Silva;Odontologia;7,41
+Diego Araújo Cardoso;Análise e Desenvolvimento de Sistemas;8,64
+Elisa Ramos Zanetti;Direito;9,36
+Sabrina Costa Esteves;Administração;3,10
+Karen Xavier Freitas;Ciência da Computação;5,49
+Nicolas Xavier Freitas;Engenharia Mecânica;9,37
+Rafael Haddad Oliveira;Psicologia;6,71
+Isabela Klein Ramos;Arquitetura e Urbanismo;8,48
+Paulo Queiroz Yamada;Engenharia Mecânica;4,20
+Alice Gomes Nascimento;Direito;8,39
+Lucas Barbosa Ibrahim;Engenharia da Computação;1,47
+Elisa Araújo Cardoso;Direito;0,46
+Eduarda Gomes Nascimento;Ciência da Computação;3,79
+João Yamada Almeida;Psicologia;8,52
+Lucas Vieira Duarte;Arquitetura e Urbanismo;2,55
+Ingrid Teixeira Batista;Engenharia da Computação;6,81
+João Xavier Freitas;Psicologia;2,14
+Lucas Dias Klein;Direito;9,54
+João Costa Esteves;Enfermagem;7,97
+Giovana Duarte Ferreira;Administração;7,25
+Fernando Queiroz Yamada;Arquitetura e Urbanismo;9,20
+Eduarda Uchoa Costa;Odontologia;7,00
+Leonardo Yamada Almeida;Ciência da Computação;0,25
+Gabriela Yamada Almeida;Arquitetura e Urbanismo;1,75
+Vinicius Nascimento Uchoa;Enfermagem;2,97
+Vinicius Klein Ramos;Direito;1,59
+Carla Araújo Cardoso;Enfermagem;7,10
+Henrique Araújo Cardoso;Direito;6,62
+Isabela Yamada Almeida;Psicologia;7,20
+Bruno Ibrahim Pereira;Enfermagem;4,97
+Elisa Ferreira Macedo;Odontologia;9,12
+Fernando Cardoso Jardim;Direito;5,98
+Caio Haddad Oliveira;Engenharia Mecânica;9,30
+Daniel Xavier Freitas;Engenharia da Computação;7,32
+Quezia Jardim Queiroz;Análise e Desenvolvimento de Sistemas;9,10
+Beatriz Almeida Haddad;Arquitetura e Urbanismo;2,05
+Beatriz Haddad Oliveira;Psicologia;7,30
+Vinicius Dias Klein;Direito;8,84
+Olivia Araújo Cardoso;Odontologia;7,91
+Júlia Silva Araújo;Análise e Desenvolvimento de Sistemas;6,39
+Heitor Cardoso Jardim;Engenharia da Computação;4,15
+Nicolas Ramos Zanetti;Psicologia;8,38
+Fernando Zanetti Barbosa;Enfermagem;2,79
+Mariana Araújo Cardoso;Administração;9,86
+Kauã Oliveira Vieira;Direito;8,59
+Karen Yamada Almeida;Engenharia Mecânica;4,59
+João Jardim Queiroz;Enfermagem;6,30
+Kauã Teixeira Batista;Arquitetura e Urbanismo;6,30
+Carla Pereira Xavier;Psicologia;6,69
+Ana Batista Dias;Psicologia;5,79
+Diego Esteves Lima;Engenharia Mecânica;8,20
+Paulo Esteves Lima;Odontologia;4,11
+Ursula Vieira Duarte;Arquitetura e Urbanismo;8,33
+Isabela Barbosa Ibrahim;Engenharia Mecânica;3,70
+Rafael Silva Araújo;Odontologia;9,38
+Sabrina Jardim Queiroz;Engenharia da Computação;4,07
+Fernando Yamada Almeida;Engenharia Mecânica;2,32
+Giovana Xavier Freitas;Administração;2,84
+Pedro Macedo Teixeira;Arquitetura e Urbanismo;5,52
+Caio Barbosa Ibrahim;Engenharia Mecânica;1,03
+Nicolas Freitas Gomes;Análise e Desenvolvimento de Sistemas;5,29
+Karen Klein Ramos;Administração;5,00
+Henrique Barbosa Ibrahim;Engenharia Mecânica;0,13
+Otávio Gomes Nascimento;Administração;1,51
+Caio Xavier Freitas;Engenharia da Computação;2,05
+Nicolas Zanetti Barbosa;Psicologia;0,47
+Elisa Ibrahim Pereira;Odontologia;9,18
+Marcela Ibrahim Pereira;Odontologia;1,61
+Gabriela Cardoso Jardim;Psicologia;4,96
+Eduarda Oliveira Vieira;Odontologia;4,41
+Pedro Araújo Cardoso;Engenharia Mecânica;7,89
+Vinicius Silva Araújo;Psicologia;4,59
+Kauã Queiroz Yamada;Administração;1,27
+Karen Gomes Nascimento;Engenharia da Computação;4,53
+Júlia Dias Klein;Administração;9,60
+Diego Silva Araújo;Psicologia;6,42
+Olivia Queiroz Yamada;Engenharia Mecânica;0,14
+Marcela Uchoa Costa;Psicologia;4,25
+Ana Teixeira Batista;Administração;1,58
+Paulo Macedo Teixeira;Direito;4,54
+Otávio Haddad Oliveira;Engenharia Mecânica;6,89
+Pedro Haddad Oliveira;Odontologia;8,60
+Natália Araújo Cardoso;Ciência da Computação;6,70
+Diego Costa Esteves;Arquitetura e Urbanismo;8,98
+Lucas Oliveira Vieira;Odontologia;1,95
+Felipe Ferreira Macedo;Psicologia;1,01
+Fernando Esteves Lima;Odontologia;6,81
+Pedro Zanetti Barbosa;Análise e Desenvolvimento de Sistemas;6,37
+Giovana Haddad Oliveira;Engenharia da Computação;8,70
+Bruno Barbosa Ibrahim;Arquitetura e Urbanismo;6,40
+Vinicius Esteves Lima;Psicologia;7,74
+Rafael Oliveira Vieira;Ciência da Computação;0,97
+Giovana Barbosa Ibrahim;Análise e Desenvolvimento de Sistemas;9,27
+Sabrina Dias Klein;Odontologia;9,92
+Júlia Macedo Teixeira;Psicologia;9,60
+Nicolas Almeida Haddad;Arquitetura e Urbanismo;3,01
+Rafael Gomes Nascimento;Enfermagem;7,19
+Mariana Nascimento Uchoa;Engenharia da Computação;2,80
+João Cardoso Jardim;Administração;8,35
+Karen Queiroz Yamada;Direito;3,63
+Alice Araújo Cardoso;Engenharia Mecânica;8,81
+Kauã Klein Ramos;Direito;5,64
+Bruno Costa Esteves;Psicologia;5,37
+Lucas Queiroz Yamada;Arquitetura e Urbanismo;8,81
+Natália Pereira Xavier;Odontologia;9,60
+Eduarda Ibrahim Pereira;Administração;3,31
+Pedro Ibrahim Pereira;Engenharia da Computação;1,94
+Karen Silva Araújo;Arquitetura e Urbanismo;6,84
+Alice Dias Klein;Enfermagem;1,50
+Daniel Barbosa Ibrahim;Psicologia;5,13
+Leonardo Xavier Freitas;Direito;8,90
+Paulo Oliveira Vieira;Engenharia Mecânica;6,57
+Heitor Haddad Oliveira;Enfermagem;9,31
+Nicolas Klein Ramos;Arquitetura e Urbanismo;4,56
+Júlia Jardim Queiroz;Direito;9,43
+Mariana Uchoa Costa;Análise e Desenvolvimento de Sistemas;2,40
+Natália Duarte Ferreira;Engenharia da Computação;7,21
+Eduarda Dias Klein;Odontologia;2,71
+Sabrina Klein Ramos;Engenharia Mecânica;5,35
+Ursula Macedo Teixeira;Análise e Desenvolvimento de Sistemas;0,82
+Alice Almeida Haddad;Arquitetura e Urbanismo;3,31
+Lucas Duarte Ferreira;Engenharia Mecânica;1,88
+Heitor Costa Esteves;Administração;6,78
+Daniel Haddad Oliveira;Administração;3,18
+Ana Barbosa Ibrahim;Direito;7,47
+Carla Costa Esteves;Ciência da Computação;3,44
+Carla Esteves Lima;Engenharia Mecânica;4,48
+Sabrina Araújo Cardoso;Direito;4,37
+Sabrina Xavier Freitas;Enfermagem;9,45
+Isabela Pereira Xavier;Psicologia;7,94
+Yasmin Pereira Xavier;Direito;5,97
+Quezia Macedo Teixeira;Direito;5,03
+Fernando Silva Araújo;Ciência da Computação;7,04
+Isabela Lima Silva;Administração;9,24
+Thiago Duarte Ferreira;Direito;1,49
+Leonardo Gomes Nascimento;Engenharia Mecânica;8,24
+Ana Queiroz Yamada;Engenharia da Computação;2,98
+Felipe Batista Dias;Direito;8,23
+Lucas Esteves Lima;Ciência da Computação;9,40
+Henrique Costa Esteves;Administração;7,69
+Isabela Nascimento Uchoa;Arquitetura e Urbanismo;1,96
+Karen Almeida Haddad;Direito;7,34
+Isabela Costa Esteves;Administração;3,70
+Ingrid Ramos Zanetti;Arquitetura e Urbanismo;0,20
+Diego Lima Silva;Direito;0,65
+Henrique Queiroz Yamada;Direito;6,28
+Nicolas Costa Esteves;Psicologia;8,74
+Eduarda Zanetti Barbosa;Ciência da Computação;3,53
+Heitor Teixeira Batista;Engenharia da Computação;2,54
+Otávio Ramos Zanetti;Odontologia;0,31
+Lucas Yamada Almeida;Enfermagem;9,16
+Carla Batista Dias;Enfermagem;9,71
+Vinicius Freitas Gomes;Ciência da Computação;2,32
+Paulo Batista Dias;Arquitetura e Urbanismo;2,50
+Vinicius Macedo Teixeira;Odontologia;0,44
+Quezia Costa Esteves;Psicologia;4,87
+Vinicius Oliveira Vieira;Ciência da Computação;0,86
+Pedro Klein Ramos;Ciência da Computação;9,65
+Júlia Klein Ramos;Direito;9,88
+Pedro Jardim Queiroz;Engenharia da Computação;3,55
+Pedro Duarte Ferreira;Engenharia da Computação;3,34
+Bruno Dias Klein;Odontologia;8,24
+Wesley Araújo Cardoso;Odontologia;1,27
+Henrique Haddad Oliveira;Direito;5,16
+Nicolas Pereira Xavier;Análise e Desenvolvimento de Sistemas;5,77
+Bruno Oliveira Vieira;Odontologia;1,32
+Leonardo Duarte Ferreira;Ciência da Computação;9,03
+Eduarda Haddad Oliveira;Ciência da Computação;2,35
+Gabriela Lima Silva;Direito;8,90
+Lucas Pereira Xavier;Ciência da Computação;8,09
+Otávio Barbosa Ibrahim;Odontologia;0,46
+Isabela Queiroz Yamada;Análise e Desenvolvimento de Sistemas;5,90
+Caio Vieira Duarte;Engenharia Mecânica;8,74
+Lucas Jardim Queiroz;Administração;7,04
+Marcela Araújo Cardoso;Engenharia Mecânica;4,57
+Sabrina Barbosa Ibrahim;Odontologia;5,72
+Ursula Barbosa Ibrahim;Odontologia;6,44
+Wesley Nascimento Uchoa;Engenharia Mecânica;2,41
+Júlia Esteves Lima;Arquitetura e Urbanismo;6,42
+Leonardo Esteves Lima;Psicologia;9,81
+Marcela Oliveira Vieira;Odontologia;3,90
+Ingrid Klein Ramos;Engenharia da Computação;8,24
+Isabela Haddad Oliveira;Direito;7,35
+Olivia Ferreira Macedo;Enfermagem;5,79
+Felipe Klein Ramos;Ciência da Computação;7,62
+Quezia Oliveira Vieira;Administração;7,94
+Karen Teixeira Batista;Análise e Desenvolvimento de Sistemas;1,80
+Yasmin Teixeira Batista;Análise e Desenvolvimento de Sistemas;8,35
+Júlia Ramos Zanetti;Psicologia;5,46
+Eduarda Freitas Gomes;Odontologia;2,86
+Kauã Zanetti Barbosa;Direito;4,03
+Elisa Cardoso Jardim;Análise e Desenvolvimento de Sistemas;8,35
+Diego Xavier Freitas;Arquitetura e Urbanismo;9,06
+Kauã Ferreira Macedo;Engenharia da Computação;1,16
+Felipe Macedo Teixeira;Análise e Desenvolvimento de Sistemas;2,06
+Marcela Yamada Almeida;Arquitetura e Urbanismo;3,79
+Olivia Dias Klein;Análise e Desenvolvimento de Sistemas;7,99
+Júlia Teixeira Batista;Análise e Desenvolvimento de Sistemas;5,61
+Thiago Haddad Oliveira;Engenharia da Computação;0,42
+Otávio Costa Esteves;Engenharia Mecânica;5,79
+Ana Almeida Haddad;Psicologia;5,38
+Carla Cardoso Jardim;Odontologia;5,37
+Bruno Yamada Almeida;Psicologia;4,92
+Isabela Gomes Nascimento;Direito;2,80
+Alice Nascimento Uchoa;Engenharia Mecânica;3,43
+Alice Vieira Duarte;Administração;8,55
+Bruno Klein Ramos;Análise e Desenvolvimento de Sistemas;2,34
+Yasmin Duarte Ferreira;Análise e Desenvolvimento de Sistemas;1,65
+Paulo Yamada Almeida;Arquitetura e Urbanismo;7,73
+Carla Uchoa Costa;Ciência da Computação;3,96
+João Queiroz Yamada;Direito;9,43
+Ingrid Araújo Cardoso;Ciência da Computação;3,38
+Yasmin Vieira Duarte;Enfermagem;8,43
+Ana Ferreira Macedo;Odontologia;8,31
+Júlia Freitas Gomes;Direito;9,83
+Giovana Ramos Zanetti;Odontologia;0,78
+Giovana Lima Silva;Psicologia;9,44
+Mariana Oliveira Vieira;Direito;8,91
+Felipe Dias Klein;Psicologia;6,81
+Caio Pereira Xavier;Análise e Desenvolvimento de Sistemas;4,41
+Eduarda Teixeira Batista;Direito;2,60
+Ingrid Nascimento Uchoa;Enfermagem;9,57
+Carla Haddad Oliveira;Direito;6,27
+Beatriz Barbosa Ibrahim;Análise e Desenvolvimento de Sistemas;9,40
+Vinicius Teixeira Batista;Análise e Desenvolvimento de Sistemas;9,02
+Ursula Esteves Lima;Direito;1,88
+Paulo Silva Araújo;Psicologia;7,29
+Thiago Oliveira Vieira;Psicologia;6,20
+Ana Ibrahim Pereira;Análise e Desenvolvimento de Sistemas;6,50
+Nicolas Ferreira Macedo;Ciência da Computação;4,15
+João Macedo Teixeira;Psicologia;4,81
+Leonardo Nascimento Uchoa;Engenharia da Computação;4,24
+Daniel Ibrahim Pereira;Engenharia Mecânica;1,30
+Karen Zanetti Barbosa;Ciência da Computação;3,25
+Bruno Freitas Gomes;Enfermagem;5,39
+Fernando Freitas Gomes;Engenharia Mecânica;3,51
+Felipe Queiroz Yamada;Arquitetura e Urbanismo;7,53
+Daniel Queiroz Yamada;Ciência da Computação;8,29
+Thiago Costa Esteves;Psicologia;1,26
+Gabriela Dias Klein;Arquitetura e Urbanismo;0,57
+Eduarda Pereira Xavier;Odontologia;1,03
+Heitor Gomes Nascimento;Direito;0,33
+Ingrid Freitas Gomes;Análise e Desenvolvimento de Sistemas;8,72
+Carla Lima Silva;Arquitetura e Urbanismo;3,55
+Gabriela Pereira Xavier;Engenharia Mecânica;8,09
+Olivia Ibrahim Pereira;Arquitetura e Urbanismo;5,75
+Ana Oliveira Vieira;Engenharia Mecânica;5,93
+Olivia Esteves Lima;Engenharia Mecânica;8,17
+Otávio Freitas Gomes;Engenharia Mecânica;4,91
+Rafael Jardim Queiroz;Administração;5,21
+Kauã Duarte Ferreira;Direito;0,87
+Ana Nascimento Uchoa;Engenharia Mecânica;7,32
+Thiago Dias Klein;Ciência da Computação;7,95
+Kauã Freitas Gomes;Enfermagem;1,43
+Olivia Oliveira Vieira;Arquitetura e Urbanismo;5,03
+Fernando Costa Esteves;Direito;4,57
+Natália Esteves Lima;Enfermagem;4,91
+Eduarda Klein Ramos;Engenharia da Computação;5,47
+Ingrid Batista Dias;Engenharia da Computação;9,36
+Vinicius Duarte Ferreira;Direito;7,34
+João Batista Dias;Direito;6,53
+Lucas Gomes Nascimento;Arquitetura e Urbanismo;4,68
+Felipe Cardoso Jardim;Engenharia Mecânica;3,31
+Sabrina Lima Silva;Direito;4,80
+Kauã Araújo Cardoso;Enfermagem;1,42
+Mariana Gomes Nascimento;Engenharia Mecânica;1,19
+Elisa Vieira Duarte;Engenharia Mecânica;1,45
+Natália Ferreira Macedo;Direito;8,41
+Heitor Dias Klein;Direito;6,71
+Bruno Zanetti Barbosa;Psicologia;6,81
+Júlia Xavier Freitas;Análise e Desenvolvimento de Sistemas;6,62
+Eduarda Almeida Haddad;Administração;7,82
+Eduarda Macedo Teixeira;Psicologia;7,58
+Quezia Freitas Gomes;Análise e Desenvolvimento de Sistemas;2,12
+Ursula Gomes Nascimento;Ciência da Computação;2,23
+Gabriela Uchoa Costa;Análise e Desenvolvimento de Sistemas;9,76
+Leonardo Dias Klein;Ciência da Computação;7,70
+Henrique Esteves Lima;Enfermagem;1,40
+Ana Zanetti Barbosa;Psicologia;3,24
+Paulo Duarte Ferreira;Odontologia;9,56
+Kauã Macedo Teixeira;Odontologia;9,66
+Beatriz Silva Araújo;Arquitetura e Urbanismo;3,98
+Bruno Almeida Haddad;Odontologia;8,84
+Rafael Ferreira Macedo;Odontologia;4,75
+Pedro Barbosa Ibrahim;Administração;8,40
+Elisa Esteves Lima;Engenharia Mecânica;1,90
+Mariana Esteves Lima;Ciência da Computação;1,50
+Leonardo Ibrahim Pereira;Administração;9,50
+Thiago Nascimento Uchoa;Engenharia Mecânica;1,63
+Gabriela Silva Araújo;Ciência da Computação;5,86
+Diego Dias Klein;Administração;0,81
+Giovana Batista Dias;Direito;9,14
+Marcela Gomes Nascimento;Psicologia;1,19
+Mariana Duarte Ferreira;Engenharia Mecânica;7,54
+Yasmin Haddad Oliveira;Arquitetura e Urbanismo;1,50
+Thiago Pereira Xavier;Análise e Desenvolvimento de Sistemas;2,39
+Marcela Vieira Duarte;Engenharia Mecânica;9,83
+Wesley Klein Ramos;Administração;0,14
+Leonardo Klein Ramos;Engenharia da Computação;4,36
+Eduarda Queiroz Yamada;Psicologia;10,00
+Carla Xavier Freitas;Ciência da Computação;9,94
+Ingrid Yamada Almeida;Arquitetura e Urbanismo;1,51
+Ana Gomes Nascimento;Odontologia;7,26
+Felipe Esteves Lima;Odontologia;9,50
+Otávio Araújo Cardoso;Enfermagem;3,13
+Nicolas Teixeira Batista;Administração;6,39
+Natália Klein Ramos;Psicologia;8,20
+Lucas Uchoa Costa;Engenharia da Computação;8,53
+Natália Vieira Duarte;Arquitetura e Urbanismo;8,61
+Mariana Cardoso Jardim;Administração;7,81
+Quezia Cardoso Jardim;Engenharia Mecânica;9,86
+Ursula Nascimento Uchoa;Arquitetura e Urbanismo;8,72
+João Teixeira Batista;Enfermagem;9,22
+Kauã Silva Araújo;Psicologia;6,40
+Alice Klein Ramos;Ciência da Computação;1,79
+Rafael Araújo Cardoso;Arquitetura e Urbanismo;6,52
+Ana Macedo Teixeira;Engenharia da Computação;5,56
+Marcela Ramos Zanetti;Ciência da Computação;1,74
+Leonardo Zanetti Barbosa;Direito;8,95
+Lucas Teixeira Batista;Ciência da Computação;8,94
+Giovana Queiroz Yamada;Arquitetura e Urbanismo;1,85
+Wesley Jardim Queiroz;Análise e Desenvolvimento de Sistemas;7,48
+Daniel Teixeira Batista;Engenharia da Computação;3,89
+Quezia Ibrahim Pereira;Administração;7,47
+Bruno Ramos Zanetti;Odontologia;8,53
+Natália Dias Klein;Análise e Desenvolvimento de Sistemas;0,35
+Júlia Pereira Xavier;Análise e Desenvolvimento de Sistemas;8,41
+Diego Yamada Almeida;Ciência da Computação;4,25
+Paulo Teixeira Batista;Engenharia da Computação;1,22
+Lucas Araújo Cardoso;Engenharia Mecânica;7,59
+Elisa Dias Klein;Engenharia Mecânica;5,83
+Giovana Freitas Gomes;Administração;2,77
+Nicolas Gomes Nascimento;Psicologia;2,91
+Lucas Batista Dias;Engenharia da Computação;9,35
+Giovana Dias Klein;Enfermagem;3,14
+Ana Dias Klein;Engenharia da Computação;0,11
+Nicolas Macedo Teixeira;Análise e Desenvolvimento de Sistemas;1,43
+Alice Ibrahim Pereira;Administração;5,60
+Nicolas Duarte Ferreira;Arquitetura e Urbanismo;0,73
+Beatriz Lima Silva;Enfermagem;2,54
+Thiago Xavier Freitas;Administração;5,80
+Leonardo Queiroz Yamada;Análise e Desenvolvimento de Sistemas;9,04
+Beatriz Freitas Gomes;Enfermagem;2,49
+Ingrid Uchoa Costa;Arquitetura e Urbanismo;6,88
+Diego Batista Dias;Análise e Desenvolvimento de Sistemas;2,30
+Diego Zanetti Barbosa;Engenharia Mecânica;3,92
+Sabrina Oliveira Vieira;Enfermagem;5,95
+Eduarda Nascimento Uchoa;Engenharia Mecânica;3,76
+Júlia Yamada Almeida;Análise e Desenvolvimento de Sistemas;8,88
+Leonardo Ramos Zanetti;Arquitetura e Urbanismo;2,02
+Isabela Zanetti Barbosa;Análise e Desenvolvimento de Sistemas;7,20
+Thiago Vieira Duarte;Ciência da Computação;6,89
+Diego Almeida Haddad;Arquitetura e Urbanismo;5,87
+Rafael Vieira Duarte;Direito;1,05
+Sabrina Cardoso Jardim;Arquitetura e Urbanismo;3,25
+Yasmin Barbosa Ibrahim;Direito;2,59
+Eduarda Lima Silva;Odontologia;5,05
+Diego Freitas Gomes;Análise e Desenvolvimento de Sistemas;2,66
+Júlia Queiroz Yamada;Engenharia Mecânica;7,32
+Alice Ferreira Macedo;Engenharia da Computação;8,02
+Felipe Vieira Duarte;Odontologia;9,08
+Yasmin Nascimento Uchoa;Administração;6,27
+Vinicius Vieira Duarte;Arquitetura e Urbanismo;3,00
+Ingrid Barbosa Ibrahim;Odontologia;4,68
+Kauã Cardoso Jardim;Administração;9,66
+Vinicius Ramos Zanetti;Odontologia;7,77
+Diego Pereira Xavier;Arquitetura e Urbanismo;8,76
+Karen Jardim Queiroz;Odontologia;9,86
+Karen Haddad Oliveira;Engenharia da Computação;5,51
+Vinicius Cardoso Jardim;Engenharia da Computação;7,89
+Caio Cardoso Jardim;Administração;7,95
+Eduarda Silva Araújo;Engenharia Mecânica;1,03
+Gabriela Costa Esteves;Engenharia da Computação;2,12
+Isabela Ramos Zanetti;Análise e Desenvolvimento de Sistemas;1,85
+Caio Gomes Nascimento;Enfermagem;3,22
+Thiago Teixeira Batista;Odontologia;5,40
+Wesley Queiroz Yamada;Odontologia;1,68
+Karen Barbosa Ibrahim;Enfermagem;2,92
+Mariana Ferreira Macedo;Ciência da Computação;1,40
+Paulo Costa Esteves;Engenharia Mecânica;9,39
+Leonardo Uchoa Costa;Direito;9,88
+Karen Oliveira Vieira;Enfermagem;7,21
+Elisa Almeida Haddad;Ciência da Computação;8,07
+Ana Xavier Freitas;Engenharia da Computação;1,90
+Otávio Nascimento Uchoa;Ciência da Computação;0,22
+Leonardo Oliveira Vieira;Direito;6,85
+Marcela Haddad Oliveira;Direito;5,80
+Rafael Almeida Haddad;Direito;2,86
+Felipe Araújo Cardoso;Psicologia;8,90
+Quezia Araújo Cardoso;Engenharia da Computação;9,16
+Isabela Batista Dias;Ciência da Computação;9,36
+Natália Nascimento Uchoa;Psicologia;5,18
+Gabriela Gomes Nascimento;Direito;6,28
+Beatriz Zanetti Barbosa;Administração;4,06
+Rafael Ibrahim Pereira;Administração;8,27
+Leonardo Costa Esteves;Arquitetura e Urbanismo;5,77
+Felipe Haddad Oliveira;Engenharia da Computação;3,89
+Júlia Vieira Duarte;Engenharia Mecânica;5,35
+Gabriela Esteves Lima;Análise e Desenvolvimento de Sistemas;5,47
+Rafael Teixeira Batista;Engenharia da Computação;7,03
+Heitor Uchoa Costa;Análise e Desenvolvimento de Sistemas;9,78
+Alice Yamada Almeida;Administração;5,90
+Caio Dias Klein;Odontologia;1,95
+Marcela Freitas Gomes;Análise e Desenvolvimento de Sistemas;9,06
+Ana Costa Esteves;Arquitetura e Urbanismo;1,11
+Daniel Klein Ramos;Enfermagem;1,83
+Nicolas Dias Klein;Administração;4,01
+Paulo Gomes Nascimento;Engenharia da Computação;7,64
+Felipe Barbosa Ibrahim;Enfermagem;3,62
+Thiago Zanetti Barbosa;Administração;0,31
+Heitor Zanetti Barbosa;Psicologia;2,70
+Rafael Cardoso Jardim;Administração;8,96
+João Freitas Gomes;Engenharia Mecânica;6,40
+Rafael Klein Ramos;Direito;5,98
+Quezia Vieira Duarte;Ciência da Computação;8,36
+Yasmin Yamada Almeida;Ciência da Computação;5,44
+Marcela Esteves Lima;Administração;5,12
+Caio Ibrahim Pereira;Análise e Desenvolvimento de Sistemas;5,59
+Paulo Zanetti Barbosa;Enfermagem;5,53
+Olivia Pereira Xavier;Engenharia da Computação;8,34
+Eduarda Batista Dias;Engenharia da Computação;5,01
+Otávio Teixeira Batista;Direito;6,12
+Quezia Haddad Oliveira;Ciência da Computação;5,70
+Ana Vieira Duarte;Engenharia da Computação;3,82
+Otávio Vieira Duarte;Psicologia;9,92
+Otávio Ibrahim Pereira;Ciência da Computação;9,01
+Bruno Queiroz Yamada;Psicologia;8,43
+Beatriz Ramos Zanetti;Direito;8,53
+Alice Freitas Gomes;Odontologia;9,22
+Nicolas Oliveira Vieira;Psicologia;9,76
+Elisa Klein Ramos;Arquitetura e Urbanismo;3,17
+Mariana Costa Esteves;Arquitetura e Urbanismo;7,45
+Daniel Vieira Duarte;Engenharia da Computação;3,74
+Carla Teixeira Batista;Engenharia Mecânica;9,49
+Karen Vieira Duarte;Análise e Desenvolvimento de Sistemas;5,31
+Marcela Batista Dias;Administração;5,76
+Paulo Ibrahim Pereira;Direito;3,71
+Giovana Ibrahim Pereira;Odontologia;7,92
+Pedro Oliveira Vieira;Engenharia da Computação;9,19
+Felipe Pereira Xavier;Análise e Desenvolvimento de Sistemas;1,49
+Henrique Yamada Almeida;Enfermagem;2,23
+Beatriz Nascimento Uchoa;Direito;8,02
+Mariana Almeida Haddad;Análise e Desenvolvimento de Sistemas;2,49
+Wesley Oliveira Vieira;Arquitetura e Urbanismo;7,16
+Alice Lima Silva;Direito;6,38
+Otávio Uchoa Costa;Arquitetura e Urbanismo;3,33
+Natália Macedo Teixeira;Ciência da Computação;0,54
+Ursula Duarte Ferreira;Psicologia;5,49
+Mariana Zanetti Barbosa;Ciência da Computação;8,95
+Bruno Batista Dias;Administração;3,69
+Lucas Lima Silva;Enfermagem;8,66
+Ana Duarte Ferreira;Administração;4,11
+Mariana Dias Klein;Administração;5,18
+Rafael Duarte Ferreira;Engenharia da Computação;8,05
+Daniel Esteves Lima;Análise e Desenvolvimento de Sistemas;6,82
+Pedro Cardoso Jardim;Enfermagem;5,27
+Lucas Ramos Zanetti;Direito;4,67
+Henrique Ramos Zanetti;Arquitetura e Urbanismo;7,35
+Henrique Teixeira Batista;Engenharia Mecânica;0,78
+Yasmin Queiroz Yamada;Arquitetura e Urbanismo;6,08
+Otávio Ferreira Macedo;Administração;4,33
+Karen Batista Dias;Análise e Desenvolvimento de Sistemas;5,50
+Nicolas Jardim Queiroz;Enfermagem;8,14
+Vinicius Zanetti Barbosa;Direito;2,03
+Vinicius Yamada Almeida;Odontologia;9,17
+Ursula Ibrahim Pereira;Enfermagem;3,13
+Felipe Yamada Almeida;Direito;3,63
+Júlia Ibrahim Pereira;Enfermagem;0,50
+Sabrina Almeida Haddad;Arquitetura e Urbanismo;9,90
+Natália Haddad Oliveira;Análise e Desenvolvimento de Sistemas;6,21
+João Lima Silva;Enfermagem;2,98
+Natália Yamada Almeida;Arquitetura e Urbanismo;7,24
+Yasmin Silva Araújo;Direito;4,85
+Olivia Batista Dias;Arquitetura e Urbanismo;4,19
+Rafael Macedo Teixeira;Engenharia Mecânica;6,57
+Kauã Nascimento Uchoa;Arquitetura e Urbanismo;3,34
+Thiago Lima Silva;Engenharia da Computação;8,58
+Eduarda Xavier Freitas;Ciência da Computação;8,08
+Ursula Pereira Xavier;Engenharia Mecânica;8,39
+Fernando Dias Klein;Arquitetura e Urbanismo;1,68
+Beatriz Costa Esteves;Análise e Desenvolvimento de Sistemas;0,20
+Isabela Jardim Queiroz;Análise e Desenvolvimento de Sistemas;7,33
+Yasmin Zanetti Barbosa;Análise e Desenvolvimento de Sistemas;4,99
+Beatriz Queiroz Yamada;Engenharia da Computação;4,32
+Wesley Dias Klein;Engenharia da Computação;7,16
+Beatriz Macedo Teixeira;Odontologia;1,45
+Otávio Duarte Ferreira;Engenharia da Computação;7,66
+Vinicius Uchoa Costa;Enfermagem;0,94
+Beatriz Gomes Nascimento;Administração;2,55
+Ursula Uchoa Costa;Análise e Desenvolvimento de Sistemas;6,95
+Lucas Klein Ramos;Engenharia da Computação;9,23
+Henrique Duarte Ferreira;Engenharia da Computação;2,19
+Henrique Freitas Gomes;Engenharia da Computação;9,18
+Quezia Dias Klein;Odontologia;1,65
+Giovana Cardoso Jardim;Direito;5,44
+Isabela Xavier Freitas;Engenharia Mecânica;7,30
+Rafael Freitas Gomes;Engenharia da Computação;6,69
+Marcela Duarte Ferreira;Administração;0,53
+Natália Ibrahim Pereira;Ciência da Computação;2,72
+João Pereira Xavier;Direito;3,88
+Heitor Jardim Queiroz;Administração;6,76
+Quezia Queiroz Yamada;Engenharia da Computação;1,53
+Leonardo Lima Silva;Enfermagem;0,70
+Olivia Silva Araújo;Análise e Desenvolvimento de Sistemas;9,67
+Daniel Macedo Teixeira;Engenharia da Computação;4,72
+Isabela Almeida Haddad;Odontologia;4,42
+Carla Freitas Gomes;Direito;9,69
+Ingrid Duarte Ferreira;Arquitetura e Urbanismo;2,37
+Giovana Oliveira Vieira;Enfermagem;0,51
+Olivia Gomes Nascimento;Odontologia;6,88
+Olivia Lima Silva;Engenharia Mecânica;3,06
+Karen Pereira Xavier;Odontologia;7,63
+Giovana Gomes Nascimento;Engenharia da Computação;2,96
+Ingrid Zanetti Barbosa;Administração;3,83
+Thiago Klein Ramos;Análise e Desenvolvimento de Sistemas;0,59
+Sabrina Esteves Lima;Direito;3,96
+Daniel Gomes Nascimento;Análise e Desenvolvimento de Sistemas;2,82
+Ingrid Ibrahim Pereira;Ciência da Computação;1,08
+Heitor Ramos Zanetti;Direito;9,91
+Daniel Ramos Zanetti;Odontologia;6,90
+Carla Yamada Almeida;Análise e Desenvolvimento de Sistemas;3,22
+Henrique Silva Araújo;Administração;0,49
+Ingrid Lima Silva;Enfermagem;4,42
+Giovana Yamada Almeida;Odontologia;6,32
+Yasmin Cardoso Jardim;Ciência da Computação;5,82
+Gabriela Macedo Teixeira;Engenharia da Computação;2,68
+Marcela Klein Ramos;Arquitetura e Urbanismo;6,09
+Alice Ramos Zanetti;Engenharia Mecânica;9,51
+Rafael Xavier Freitas;Psicologia;4,62
+Olivia Haddad Oliveira;Psicologia;7,52
+Vinicius Costa Esteves;Análise e Desenvolvimento de Sistemas;6,06
+Otávio Queiroz Yamada;Psicologia;6,90
+Pedro Nascimento Uchoa;Odontologia;3,56
+Beatriz Esteves Lima;Administração;8,45
+Isabela Uchoa Costa;Enfermagem;0,96
+Wesley Gomes Nascimento;Engenharia da Computação;4,01
+Leonardo Macedo Teixeira;Enfermagem;3,75
+Bruno Vieira Duarte;Ciência da Computação;7,22
+Karen Uchoa Costa;Engenharia da Computação;5,47
+Sabrina Pereira Xavier;Ciência da Computação;5,45
+Caio Ferreira Macedo;Engenharia Mecânica;5,94
+Karen Dias Klein;Enfermagem;3,14
+João Klein Ramos;Arquitetura e Urbanismo;8,57
+Ingrid Vieira Duarte;Administração;9,69
+Caio Silva Araújo;Psicologia;0,05
+Carla Oliveira Vieira;Psicologia;8,45
+Rafael Nascimento Uchoa;Psicologia;8,43
+Caio Oliveira Vieira;Engenharia da Computação;4,20
+Pedro Dias Klein;Enfermagem;4,43
+Heitor Freitas Gomes;Odontologia;3,38
+Nicolas Ibrahim Pereira;Enfermagem;7,44
+Beatriz Xavier Freitas;Enfermagem;3,97
+Natália Jardim Queiroz;Enfermagem;8,95
+Natália Freitas Gomes;Enfermagem;4,45
+Caio Macedo Teixeira;Engenharia da Computação;6,12
+Natália Almeida Haddad;Análise e Desenvolvimento de Sistemas;7,39
+Thiago Jardim Queiroz;Enfermagem;7,40
+Thiago Ferreira Macedo;Arquitetura e Urbanismo;5,14
+Ursula Almeida Haddad;Arquitetura e Urbanismo;2,88
+Carla Almeida Haddad;Odontologia;5,27
+Heitor Almeida Haddad;Direito;6,15
+Gabriela Barbosa Ibrahim;Administração;0,20
+Nicolas Silva Araújo;Análise e Desenvolvimento de Sistemas;0,68
+Thiago Cardoso Jardim;Odontologia;5,74
+Pedro Xavier Freitas;Enfermagem;9,38
+Leonardo Batista Dias;Psicologia;6,06
+Kauã Pereira Xavier;Odontologia;2,03
+Quezia Esteves Lima;Enfermagem;0,26
+Diego Duarte Ferreira;Administração;6,53
+Rafael Ramos Zanetti;Engenharia Mecânica;5,89
+Natália Cardoso Jardim;Direito;5,86
+Thiago Queiroz Yamada;Odontologia;3,21
+Heitor Araújo Cardoso;Engenharia da Computação;3,38
+Felipe Duarte Ferreira;Arquitetura e Urbanismo;4,25
+João Nascimento Uchoa;Administração;7,86
+Marcela Ferreira Macedo;Direito;0,26
+Fernando Macedo Teixeira;Arquitetura e Urbanismo;8,39
+Carla Duarte Ferreira;Análise e Desenvolvimento de Sistemas;5,80
+Fernando Barbosa Ibrahim;Engenharia da Computação;8,18
+Gabriela Klein Ramos;Análise e Desenvolvimento de Sistemas;9,38
+Fernando Oliveira Vieira;Engenharia da Computação;7,25
+Lucas Xavier Freitas;Ciência da Computação;4,96
+Olivia Yamada Almeida;Ciência da Computação;8,59
+Alice Uchoa Costa;Engenharia Mecânica;6,07
+Otávio Esteves Lima;Engenharia da Computação;7,04
+Ingrid Ferreira Macedo;Engenharia da Computação;4,87
+Isabela Teixeira Batista;Enfermagem;5,24
+Felipe Lima Silva;Análise e Desenvolvimento de Sistemas;5,66
+Olivia Freitas Gomes;Engenharia da Computação;2,80
+Giovana Araújo Cardoso;Arquitetura e Urbanismo;2,81
+Caio Jardim Queiroz;Enfermagem;4,56
+Sabrina Yamada Almeida;Administração;0,57
+Ana Ramos Zanetti;Ciência da Computação;6,28
+Quezia Gomes Nascimento;Direito;4,04
+Kauã Gomes Nascimento;Ciência da Computação;9,96
+Daniel Almeida Haddad;Odontologia;6,82
+Isabela Esteves Lima;Odontologia;2,28
+Elisa Barbosa Ibrahim;Análise e Desenvolvimento de Sistemas;1,72
+Kauã Haddad Oliveira;Ciência da Computação;3,67
+Marcela Xavier Freitas;Arquitetura e Urbanismo;1,30
+Otávio Dias Klein;Administração;4,82
+Caio Esteves Lima;Ciência da Computação;0,87
+Giovana Almeida Haddad;Enfermagem;2,02
+Leonardo Jardim Queiroz;Arquitetura e Urbanismo;4,40
+Ana Araújo Cardoso;Odontologia;3,24
+Heitor Pereira Xavier;Psicologia;5,83
+Carla Nascimento Uchoa;Engenharia da Computação;3,71
+Marcela Cardoso Jardim;Direito;5,60
+Heitor Duarte Ferreira;Engenharia da Computação;4,59
+Wesley Batista Dias;Ciência da Computação;6,38
+Fernando Nascimento Uchoa;Enfermagem;7,18
+Ana Yamada Almeida;Administração;0,46
+Henrique Gomes Nascimento;Ciência da Computação;8,23
+Gabriela Teixeira Batista;Análise e Desenvolvimento de Sistemas;6,86
+Giovana Costa Esteves;Arquitetura e Urbanismo;3,35
+Gabriela Oliveira Vieira;Engenharia da Computação;9,05
+Nicolas Haddad Oliveira;Engenharia da Computação;0,08
+Bruno Duarte Ferreira;Administração;7,60
+Daniel Costa Esteves;Arquitetura e Urbanismo;3,28
+Júlia Zanetti Barbosa;Arquitetura e Urbanismo;2,59
+Mariana Silva Araújo;Psicologia;0,53
+Eduarda Esteves Lima;Análise e Desenvolvimento de Sistemas;2,13
+Yasmin Ramos Zanetti;Arquitetura e Urbanismo;4,86
+Júlia Barbosa Ibrahim;Enfermagem;4,08
+Leonardo Almeida Haddad;Engenharia da Computação;2,04
+Fernando Xavier Freitas;Psicologia;6,72
+Vinicius Xavier Freitas;Ciência da Computação;9,81
+Paulo Lima Silva;Enfermagem;6,30
+Pedro Lima Silva;Psicologia;5,06
+Isabela Araújo Cardoso;Engenharia da Computação;8,99
+Daniel Cardoso Jardim;Ciência da Computação;5,16
+João Araújo Cardoso;Administração;0,11
+Rafael Pereira Xavier;Ciência da Computação;7,10
+Carla Vieira Duarte;Engenharia da Computação;9,31
+Karen Ibrahim Pereira;Ciência da Computação;1,76
+Ingrid Esteves Lima;Administração;4,81
+Diego Macedo Teixeira;Análise e Desenvolvimento de Sistemas;0,13
+Ursula Silva Araújo;Análise e Desenvolvimento de Sistemas;2,02
+Rafael Esteves Lima;Enfermagem;0,98
+Ursula Ramos Zanetti;Análise e Desenvolvimento de Sistemas;1,52
+Daniel Silva Araújo;Arquitetura e Urbanismo;7,02
+Felipe Oliveira Vieira;Odontologia;6,49
+Ingrid Gomes Nascimento;Direito;8,32
+Marcela Macedo Teixeira;Enfermagem;8,12
+Natália Barbosa Ibrahim;Psicologia;7,43
+Karen Lima Silva;Psicologia;9,70
+Alice Oliveira Vieira;Odontologia;0,80
+Yasmin Batista Dias;Enfermagem;8,82
+Heitor Xavier Freitas;Engenharia Mecânica;4,42
+Vinicius Pereira Xavier;Engenharia Mecânica;5,92
+Marcela Lima Silva;Ciência da Computação;8,74
+Mariana Jardim Queiroz;Engenharia Mecânica;9,15
+Caio Almeida Haddad;Direito;4,66
+Wesley Ferreira Macedo;Enfermagem;7,20
+Diego Nascimento Uchoa;Engenharia Mecânica;1,37
+Caio Araújo Cardoso;Engenharia Mecânica;2,66
+Mariana Queiroz Yamada;Administração;1,57
+Leonardo Silva Araújo;Engenharia da Computação;0,92
+Nicolas Barbosa Ibrahim;Psicologia;7,20
+Yasmin Ibrahim Pereira;Ciência da Computação;2,60
+Lucas Nascimento Uchoa;Engenharia da Computação;2,15
+Kauã Uchoa Costa;Enfermagem;6,08
+Otávio Lima Silva;Arquitetura e Urbanismo;8,24
+Rafael Barbosa Ibrahim;Arquitetura e Urbanismo;3,47
+Yasmin Gomes Nascimento;Análise e Desenvolvimento de Sistemas;0,85
+Thiago Macedo Teixeira;Arquitetura e Urbanismo;0,48
+Natália Silva Araújo;Psicologia;3,74
+Gabriela Xavier Freitas;Odontologia;2,92
+Karen Duarte Ferreira;Ciência da Computação;1,54
+Gabriela Queiroz Yamada;Odontologia;4,50
+Daniel Nascimento Uchoa;Ciência da Computação;7,90
+Otávio Yamada Almeida;Enfermagem;6,40
+Leonardo Vieira Duarte;Análise e Desenvolvimento de Sistemas;9,65
+Heitor Silva Araújo;Análise e Desenvolvimento de Sistemas;3,89
+Gabriela Batista Dias;Engenharia Mecânica;5,83
+Henrique Lima Silva;Administração;7,99
+Kauã Batista Dias;Engenharia da Computação;7,41
+Felipe Gomes Nascimento;Engenharia da Computação;4,87
+Ingrid Cardoso Jardim;Engenharia da Computação;3,99
+Thiago Uchoa Costa;Enfermagem;0,80
+Quezia Yamada Almeida;Ciência da Computação;8,44
+Bruno Haddad Oliveira;Direito;0,39
+Carla Barbosa Ibrahim;Psicologia;7,95
+Thiago Barbosa Ibrahim;Psicologia;0,24
+Pedro Gomes Nascimento;Psicologia;10,00
+Rafael Yamada Almeida;Análise e Desenvolvimento de Sistemas;0,20
+Elisa Xavier Freitas;Engenharia da Computação;3,77
+Beatriz Yamada Almeida;Análise e Desenvolvimento de Sistemas;8,78
+Kauã Almeida Haddad;Engenharia da Computação;2,13
+Heitor Ibrahim Pereira;Engenharia Mecânica;2,90
+Elisa Pereira Xavier;Análise e Desenvolvimento de Sistemas;6,07
+Ingrid Xavier Freitas;Arquitetura e Urbanismo;4,48
+Ana Uchoa Costa;Psicologia;4,47
+Isabela Duarte Ferreira;Engenharia da Computação;2,63
+Caio Duarte Ferreira;Engenharia Mecânica;1,65
+Fernando Duarte Ferreira;Odontologia;8,75
+Karen Costa Esteves;Análise e Desenvolvimento de Sistemas;9,78
+Ursula Klein Ramos;Enfermagem;1,95
+Quezia Uchoa Costa;Psicologia;2,86
+Caio Batista Dias;Psicologia;2,24
+Ursula Teixeira Batista;Engenharia Mecânica;1,34
+Bruno Teixeira Batista;Administração;6,57
+Yasmin Macedo Teixeira;Engenharia Mecânica;3,81
+João Esteves Lima;Odontologia;6,54
+Nicolas Lima Silva;Ciência da Computação;5,15
+Kauã Xavier Freitas;Engenharia da Computação;5,46
+Mariana Ibrahim Pereira;Psicologia;3,43
